@@ -16,6 +16,11 @@ h1 {
 header {
 	width: 100%;
 }
+
+.profirst{
+	
+	color: black;
+}
 html {
 	font-size: 24px;
 	font-family: "Times New Roman", Times, serif;
